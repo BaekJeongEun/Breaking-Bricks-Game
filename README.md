@@ -14,5 +14,3 @@
 ![슬라이드6](https://user-images.githubusercontent.com/53815335/135605898-8be207ed-e37d-4658-b448-7616cb3bda50.PNG)
 ![슬라이드7](https://user-images.githubusercontent.com/53815335/135605900-8c9e7d1f-18cb-4ace-a1e2-238fc897379a.PNG)
 ![슬라이드8](https://user-images.githubusercontent.com/53815335/135605901-4d08e10b-b987-4d36-b920-a69b178c2695.PNG)
-![슬라이드9](https://user-images.githubusercontent.com/53815335/135605903-473ef584-04e7-4ea3-9788-e624f4d966f2.PNG)
-![슬라이드10](https://user-images.githubusercontent.com/53815335/135605904-4f02973e-895c-43cf-92be-eaef6450f5b1.PNG)
